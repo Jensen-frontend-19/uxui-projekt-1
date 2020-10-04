@@ -1,0 +1,12 @@
+{
+  "name": "uxui-projekt-1",
+  "version": "1.0.0",
+  "description": "Group project assignment for UX/UI course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ux", "ui"],
+  "author": "David Andersson",
+  "license": "ISC"
+}
