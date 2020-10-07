@@ -21,6 +21,16 @@ Alla filer som ni producerar ska finnas i den delade mappen, eller länkas till 
 
 Skriv i rapporten om ni vill att Eezer ska få lov att använda era inlämningar som inspiration.
 
+Allt ska vara inlämnat innan ni redovisar designprojektet på sista kursdagen.
+
+
+## Bedömning
+För godkänt på projektarbetet krävs
+* du har arbetat med designprocessens delar (Empathize, Define, Ideate, Prototype, Test)
+
+För väl godkänt på projektarbetet krävs
+* du har arbetat grundligt med designprocessens delar
+
 ---
 
 ## Rapporten
