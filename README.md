@@ -1,7 +1,7 @@
 # Designprojekt
 [Empathize, Define](#empathize-define),
 [Ideate](#ideate),
-Prototype,
+[Prototype](#prototyp),
 Test
 
 ---
@@ -15,13 +15,24 @@ Eezer finns i flera afrikanska länder, men vi ska fokusera på ambulansförarna
 
 
 ## Inlämning
-Ni ska skapa en mapp på google drive (eller likvärdig molntjänst) som delas med läraren till david.andersson@zocom.se . Skapa ett textdokument med namnet "rapport" plus ert gruppnamn. (Exempel: `rapport-grupp-1`)
+Det ni producerar ska laddas upp på LearnPoint. Men ni kommer att arbeta med molndokument, som inte är praktiskt att ladda upp. Ni kommer att producera tre sorters filer:
 
-Alla filer som ni producerar ska finnas i den delade mappen, eller länkas till från projektrapporten.
+1. en **rapport**, ett vanligt delat dokument (exempel: google docs)
+2. **delade dokument** (exempel: Figma-skisser)
+3. eventuella andra filer (exempel: bilder)
 
-Skriv i rapporten om ni vill att Eezer ska få lov att använda era inlämningar som inspiration.
+Alla dokument ska ligga i en delad mapp. Rapporten ska innehålla en länk till den delade mappen. Tänk på att alla dokument som *delas* ska vara delade med "*alla med länken*". Detta är för att både läraren och skolan ska kunna komma åt alla filer.
 
-Allt ska vara inlämnat innan ni redovisar designprojektet på sista kursdagen.
+När ni är redo att lämna in ska ni **ladda ner rapporten** i lämpligt format (PDF är bättre än Word) och **ladda upp på LearnPoint**.
+
+Rapporten ska ha namnet `rapport-grupp-1` (byt ut gruppnamnet mot er egen grupp) och ska innehålla
+* namn och klass på alla som deltagit i gruppens arbete
+* alla länkar som behövs för att se vad ni har producerat
+* kortfattad utvärdering: redogör för hur ni har delat upp arbetet, vad som fungerat bra och vad som kan förbättras nästa gång
+
+Skriv i rapporten om ni vill att Eezer ska få lov att använda era inlämningar som inspiration. (Detta är helt frivilligt och har inget inflytande på betyget.)
+
+**Deadline**: Allt ska vara inlämnat innan ni redovisar designprojektet på sista kursdagen.
 
 
 ## Bedömning
@@ -63,7 +74,7 @@ Ni ska använda [*Mindmap*, *Brainwrite* och *Worst possible idea*](https://www.
 
 
 #### Prototyp
-Kommer efter genomgång
+Detta steg i designprocessen ska leda fram till en färdig design. Ni ska använda Figma för att skapa en **mid-fi wireframe** och en **mockup**. Mockupen ska vara interaktiv - använd Figmas prototyp-läge.
 
 #### Testning
 Kommer efter genomgång
