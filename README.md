@@ -2,7 +2,7 @@
 [Empathize, Define](#empathize-define),
 [Ideate](#ideate),
 [Prototype](#prototyp),
-Test
+[Test](#testning)
 
 ---
 
@@ -77,4 +77,12 @@ Ni ska använda [*Mindmap*, *Brainwrite* och *Worst possible idea*](https://www.
 Detta steg i designprocessen ska leda fram till en färdig design. Ni ska använda Figma för att skapa en **mid-fi wireframe** och en **mockup**. Mockupen ska vara interaktiv - använd Figmas prototyp-läge.
 
 #### Testning
-Kommer efter genomgång
+Sista steget i designprocessen handlar om att testa att den design ni har byggt fungerar på användare.
++ Förbered minst 3 frågor som ni ska ställa till användare
++ Visa er design för användare och intervjua dem
+	+ Försök att välja testdeltagare som inte är era klasskamrater först
++ Skriv ner i rapporten:
+	+ Vilka frågor ni ställde
+	+ Vad ni lärde er av intervjuerna
+
+Om ni har tid, gör gärna en ny testrunda med nya frågor.
